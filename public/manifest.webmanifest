@@ -1,0 +1,22 @@
+{
+  "name": "NexaChat AI",
+  "short_name": "NexaChat",
+  "description": "AI-powered responsive web messenger",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08151f",
+  "theme_color": "#0abf92",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
